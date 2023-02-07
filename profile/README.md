@@ -12,7 +12,7 @@ Levantamento florístico do CETEP Alberto Torres
 
 | [Thiago Sousa](https://github.com/ThiagoSousa81/) | 
 | --- |
-| Status bloqueado! |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSousa81&show_icons=true&theme=transparent) |
 
 | [Giovanna Vanine](https://github.com/) | 
 | --- |
