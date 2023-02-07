@@ -2,10 +2,6 @@
 Levantamento florístico do CETEP Alberto Torres
 ## Desenvolvedores
 
-| [Thiago Sousa](https://github.com/ThiagoSousa81/) | 
-| --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosousa81&show_icons=true&theme=transparent) |
-
 | [Fernando Santos](https://github.com/aglomera/) |
 | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aglomera&show_icons=true&theme=transparent) |
@@ -13,6 +9,10 @@ Levantamento florístico do CETEP Alberto Torres
 [Luis Gustavo](https://github.com/LuisGustav03) |
 | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisGustav03&show_icons=true&theme=transparent) |
+
+| [Thiago Sousa](https://github.com/ThiagoSousa81/) | 
+| --- |
+| Status bloqueado! |
 
 | [Giovanna Vanine](https://github.com/) | 
 | --- |
