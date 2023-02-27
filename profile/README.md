@@ -14,9 +14,9 @@ Levantamento florístico do CETEP Alberto Torres
 | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSousa81&show_icons=true&theme=transparent&locale=pt-br) |
 
-| [Giovanna Vanine](https://github.com/) | 
+| [Giovanna Vanine](https://github.com/gio3git) | 
 | --- |
-| Git-Hub solicitado... |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gio3git&show_icons=true&theme=transparent&locale=pt-br) |
 
 | [Vinicius Cerqueira](https://github.com/) | 
 | --- |
